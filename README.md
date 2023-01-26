@@ -10,6 +10,7 @@ Meu nome é Pedro Valério, sou estudante de Técnico em Informática Integrado 
   - <i class="fab fa-java"></i> Java 
   - <i class="fab fa-js"></i> JavaScript 
   - <i class="fab fa-python"></i> Python 
+  - TypeScript
 - Tecnologias: 
   - <i class="fas fa-database"></i> SQL 
   - <i class="fab fa-react"></i> React 
