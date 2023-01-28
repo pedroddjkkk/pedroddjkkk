@@ -32,3 +32,8 @@ Atualmente trabalho na empresa Ápice Sistemas como desenvolvedor web.
 - [Portfolio](https://github.com/pedroddjkkk/Portfolio) - Um portfolio desenvolvido usando NextJS, pode ser acessado em [pedrovalerio.com](https://www.pedrovalerio.com).
 - [ORMize](https://github.com/pedroddjkkk/ORMize) - Um ORM para JavaScript e TypeScript focado em MySQL.
 - [Calculadora React](https://github.com/pedroddjkkk/CalculadoraReact) - Uma calculadora desenvolvida em React com design responsivo utilizando Flexbox e estilização com CSS, pode ser acessado em [pedroddjkkk.github.io/CalculadoraReact](https://pedroddjkkk.github.io/CalculadoraReact/)
+
+<section align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroddjkkk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="190rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroddjkkk&layout=compact&langs_count=9&theme=dark" height="190rem"/>
+</section>
