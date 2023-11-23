@@ -34,7 +34,6 @@ Atualmente trabalho na empresa Ápice Sistemas como desenvolvedor web.
 - [Calculadora React](https://github.com/pedroddjkkk/CalculadoraReact) - Uma calculadora desenvolvida em React com design responsivo utilizando Flexbox e estilização com CSS, pode ser acessado em [CalculadoraReact](https://pedroddjkkk.github.io/CalculadoraReact/)
 - [SurveyForm](https://github.com/pedroddjkkk/SurveyForm) - Uma forma de pesquisa desenvolvida utilizando HTML, CSS e Flexbox. O objetivo é criar uma forma simples e intuitiva para coletar dados dos usuários. Pode ser acessado em [SurveyForm](https://pedroddjkkk.github.io/SurveyForm/).
 
-<section align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroddjkkk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170rem"/>
+<section>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroddjkkk&layout=compact&langs_count=9&theme=dark" height="170rem"/>
 </section>
