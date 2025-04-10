@@ -2,7 +2,8 @@
 
 # Sobre mim
 
-Meu nome é Pedro Valério, sou estudante de Engenharia de Software na Unicesumar com formação em Técnico de Informática Integrado ao Ensino Médio no Instituto Federal do Paraná. Atuo na área de programação, com ênfase em desenvolvimento web usando React.
+Meu nome é Pedro Valério, sou desenvolvedor full stack na SG Sistemas e estudante de Engenharia de Software na Unicesumar.
+Possuo formação em Técnico de Informática Integrado ao Ensino Médio no Instituto Federal do Paraná.
 
 # Habilidades
 
@@ -25,7 +26,7 @@ Meu nome é Pedro Valério, sou estudante de Engenharia de Software na Unicesuma
 
 # Experiência Profissional
 
-Atualmente trabalho na empresa SG Sistemas como desenvolvedor full stack.
+Atualmente trabalho na empresa SG Sistemas como desenvolvedor full stack. Já atuei como desenvolvedor web na Ápice Sistemas.
 
 # Projetos
 
