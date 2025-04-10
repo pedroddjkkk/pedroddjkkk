@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-Meu nome é Pedro Valério, sou estudante de Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná. Atuo na área de programação, com ênfase em desenvolvimento web usando React.
+Meu nome é Pedro Valério, sou estudante de Engenharia de Software na Unicesumar com formação em Técnico de Informática Integrado ao Ensino Médio no Instituto Federal do Paraná. Atuo na área de programação, com ênfase em desenvolvimento web usando React.
 
 # Habilidades
 
@@ -25,7 +25,7 @@ Meu nome é Pedro Valério, sou estudante de Técnico em Informática Integrado 
 
 # Experiência Profissional
 
-Atualmente trabalho na empresa Ápice Sistemas como desenvolvedor web.
+Atualmente trabalho na empresa SG Sistemas como desenvolvedor full stack.
 
 # Projetos
 
